@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: deepClassifier
+Version: 0.0.0
+Summary: A small python package
+Home-page: https://github.com/ISHAWANT/deepCNN
+Author: ISHAWANT
+Author-email: ishawantkumar@gmail.com
+License: MIT
+Project-URL: Bug Tracker, https://github.com/ISHAWANT/deepCNN/issues
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Provides-Extra: testing
+
+# deep cnn classifier
